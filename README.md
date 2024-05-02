@@ -1,7 +1,7 @@
 # Python-Keylogger
 Note: This project was created for EDUCATIONAL PURPOSES only. 
 
-It demonstrates how keyloggers work and explores various related concepts, including system monitoring, data capture, and email reporting. 
+It demonstrates how keyloggers work, and explores various related concepts including system monitoring, data capture, and email reporting. 
 
 ## Purpose
 A keylogger is a surveillance software that can log each key that is pressed on a computer. My goal was to explore the world of cybersecurity and gain experience by creating a real-world, malicious software (malware) threat in a controlled environment. To achieve this, I created a functional keylogger program using Python that can track user keystrokes and send the logged data via email.
