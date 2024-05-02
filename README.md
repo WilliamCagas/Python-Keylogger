@@ -9,6 +9,7 @@ For Use:
 
 Needs a gmail account with 2FA enabled.
 
-1. Go into 2FA settings of the gmail account
-2. Look for and create an app password
-3. Paste the app password into the string for self.SENDER_PASS variable
+1. Go into 2FA settings of the gmail account.
+2. Look for and create an app password.
+3. Paste the app password into the string for the self.SENDER_PASS variable.
+4. Type the email address into the string for the self.SENDER variable.
